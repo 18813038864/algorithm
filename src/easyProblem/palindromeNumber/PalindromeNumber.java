@@ -1,6 +1,4 @@
-package palindromeNumber;
-
-import reverseInteger.ReverseInteger;
+package easyProblem.palindromeNumber;
 
 public class PalindromeNumber {
     public static boolean solution(int num){

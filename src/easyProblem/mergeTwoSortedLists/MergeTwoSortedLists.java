@@ -1,6 +1,4 @@
-package mergeTwoSortedLists;
-
-import java.util.List;
+package easyProblem.mergeTwoSortedLists;
 
 class ListNode {
     int val;

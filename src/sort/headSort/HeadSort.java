@@ -1,4 +1,4 @@
-package headSort;
+package sort.headSort;
 
 import java.util.Arrays;
 

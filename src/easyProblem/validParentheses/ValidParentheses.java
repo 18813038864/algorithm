@@ -1,4 +1,4 @@
-package validParentheses;
+package easyProblem.validParentheses;
 
 import java.util.HashMap;
 import java.util.Stack;

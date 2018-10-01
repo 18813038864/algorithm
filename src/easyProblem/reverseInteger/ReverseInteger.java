@@ -1,6 +1,4 @@
-package reverseInteger;
-
-import java.util.List;
+package easyProblem.reverseInteger;
 
 public class ReverseInteger {
     public static int solution(int num){
