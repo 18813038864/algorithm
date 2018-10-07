@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ad27287-957a-45e8-8fc2-e3a129eab04f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/easyProblem/bestTimetoBuyandSellStock/BestTimetoBuyandSellStock.java" afterPath="$PROJECT_DIR$/src/easyProblem/bestTimetoBuyandSellStock/BestTimetoBuyandSellStock.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/easyProblem/bestTimetoBuyandSellStockTwo/BestTimetoBuyandSellStockTwo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BestTimetoBuyandSellStock.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/easyProblem/bestTimetoBuyandSellStock/BestTimetoBuyandSellStock.java">
+      <file leaf-file-name="BestTimetoBuyandSellStockTwo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/easyProblem/bestTimetoBuyandSellStockTwo/BestTimetoBuyandSellStockTwo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+            <state relative-caret-position="172">
+              <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -58,6 +59,7 @@
         <option value="$PROJECT_DIR$/src/graph/ListDG.java" />
         <option value="$PROJECT_DIR$/src/easyProblem/pasalTriangle/PasalTriangle.java" />
         <option value="$PROJECT_DIR$/src/easyProblem/bestTimetoBuyandSellStock/BestTimetoBuyandSellStock.java" />
+        <option value="$PROJECT_DIR$/src/easyProblem/bestTimetoBuyandSellStockTwo/BestTimetoBuyandSellStockTwo.java" />
       </list>
     </option>
   </component>
@@ -78,7 +80,7 @@
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
     <option name="y" value="2" />
     <option name="width" value="1378" />
@@ -118,6 +120,13 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="easyProblem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="easyProblem" type="462c0819:PsiDirectoryNode" />
+              <item name="bestTimetoBuyandSellStock" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -289,7 +298,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BestTimetoBuyandSellStock">
+  <component name="RunManager" selected="Application.BestTimetoBuyandSellStockTwo">
     <configuration name="BestTimetoBuyandSellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -298,6 +307,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="easyProblem.bestTimetoBuyandSellStock.BestTimetoBuyandSellStock" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorithm" />
+      <envs />
+    </configuration>
+    <configuration name="BestTimetoBuyandSellStockTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="easyProblem.bestTimetoBuyandSellStockTwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="easyProblem.bestTimetoBuyandSellStockTwo.BestTimetoBuyandSellStockTwo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -336,25 +364,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="easyProblem.pasalTriangle.PasalTriangle" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="algorithm" />
-      <envs />
-    </configuration>
-    <configuration name="RemoveDuplicatesFromSortedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="easyProblem.removeDuplicatesFromSortedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="easyProblem.removeDuplicatesFromSortedList.RemoveDuplicatesFromSortedList" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -467,19 +476,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.RemoveDuplicatesFromSortedList" />
-      <item index="1" class="java.lang.String" itemvalue="Application.SymmetricTree" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ListDG" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PasalTriangle" />
-      <item index="4" class="java.lang.String" itemvalue="Application.BestTimetoBuyandSellStock" />
+      <item index="0" class="java.lang.String" itemvalue="Application.SymmetricTree" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ListDG" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PasalTriangle" />
+      <item index="3" class="java.lang.String" itemvalue="Application.BestTimetoBuyandSellStock" />
+      <item index="4" class="java.lang.String" itemvalue="Application.BestTimetoBuyandSellStockTwo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.BestTimetoBuyandSellStock" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PasalTriangle" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ListDG" />
-        <item index="3" class="java.lang.String" itemvalue="Application.SymmetricTree" />
-        <item index="4" class="java.lang.String" itemvalue="Application.RemoveDuplicatesFromSortedList" />
+        <item index="0" class="java.lang.String" itemvalue="Application.BestTimetoBuyandSellStockTwo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.BestTimetoBuyandSellStock" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PasalTriangle" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ListDG" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SymmetricTree" />
       </list>
     </recent_temporary>
   </component>
@@ -514,10 +523,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55707000" />
+    <option name="totallyTimeSpent" value="58095000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="2" width="1378" height="733" extended-state="1" />
+    <frame x="-7" y="2" width="1378" height="733" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -864,8 +873,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/easyProblem/bestTimetoBuyandSellStock/BestTimetoBuyandSellStock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        <state relative-caret-position="307">
+          <caret line="55" column="5" lean-forward="true" selection-start-line="51" selection-start-column="3" selection-end-line="55" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easyProblem/bestTimetoBuyandSellStockTwo/BestTimetoBuyandSellStockTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
           <folding />
         </state>
       </provider>
