@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ad27287-957a-45e8-8fc2-e3a129eab04f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/easyProblem/missingNumber/MissingNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/easyProblem/firstBadVersion/FirstBadVersion.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -14,7 +14,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="FirstBadVersion.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/easyProblem/firstBadVersion/FirstBadVersion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,6 +63,7 @@
         <option value="$PROJECT_DIR$/src/easyProblem/deleteNodeInALinkedList/DeleteNodeInALinkedList.java" />
         <option value="$PROJECT_DIR$/src/easyProblem/validAnagram/ValidAnagram.java" />
         <option value="$PROJECT_DIR$/src/easyProblem/missingNumber/MissingNumber.java" />
+        <option value="$PROJECT_DIR$/src/easyProblem/firstBadVersion/FirstBadVersion.java" />
       </list>
     </option>
   </component>
@@ -349,7 +361,7 @@
       <updated>1538031288986</updated>
       <workItem from="1538031301288" duration="36455000" />
       <workItem from="1538656692419" duration="6058000" />
-      <workItem from="1541299523893" duration="859000" />
+      <workItem from="1541299523893" duration="1758000" />
     </task>
     <task id="LOCAL-00001" summary="maxDepth">
       <created>1538827054486</created>
@@ -372,11 +384,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541234280497</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="missing number">
+      <created>1541300441212</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1541300441213</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62866000" />
+    <option name="totallyTimeSpent" value="63765000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="2" width="1378" height="733" extended-state="0" />
@@ -448,7 +467,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="maxDepth" />
     <MESSAGE value="valid anagram" />
-    <option name="LAST_COMMIT_MESSAGE" value="valid anagram" />
+    <MESSAGE value="missing number" />
+    <option name="LAST_COMMIT_MESSAGE" value="missing number" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -477,19 +497,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/easyProblem/symmetricTree/SymmetricTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#280#281#0" expanded="false" />
-            <element signature="e#323#324#0" expanded="false" />
-            <element signature="e#777#787#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/easyProblem/climbingStairs/ClimbingStairs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-486">
@@ -803,6 +810,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easyProblem/firstBadVersion/FirstBadVersion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
           <folding />
         </state>
       </provider>
