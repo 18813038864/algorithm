@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ad27287-957a-45e8-8fc2-e3a129eab04f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/easyProblem/firstBadVersion/FirstBadVersion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/easyProblem/nimGame/NimGame.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -14,18 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="FirstBadVersion.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/easyProblem/firstBadVersion/FirstBadVersion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -64,6 +53,7 @@
         <option value="$PROJECT_DIR$/src/easyProblem/validAnagram/ValidAnagram.java" />
         <option value="$PROJECT_DIR$/src/easyProblem/missingNumber/MissingNumber.java" />
         <option value="$PROJECT_DIR$/src/easyProblem/firstBadVersion/FirstBadVersion.java" />
+        <option value="$PROJECT_DIR$/src/easyProblem/nimGame/NimGame.java" />
       </list>
     </option>
   </component>
@@ -105,8 +95,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -119,18 +111,10 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="easyProblem" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -362,6 +346,7 @@
       <workItem from="1538031301288" duration="36455000" />
       <workItem from="1538656692419" duration="6058000" />
       <workItem from="1541299523893" duration="1758000" />
+      <workItem from="1541465270319" duration="717000" />
     </task>
     <task id="LOCAL-00001" summary="maxDepth">
       <created>1538827054486</created>
@@ -395,7 +380,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63765000" />
+    <option name="totallyTimeSpent" value="64517000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="2" width="1378" height="733" extended-state="0" />
@@ -411,7 +396,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32869565" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20485584" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20789075" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -497,20 +482,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/easyProblem/climbingStairs/ClimbingStairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-486">
-          <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_111/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="1250" column="22" lean-forward="false" selection-start-line="1250" selection-start-column="22" selection-end-line="1250" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/easyProblem/maxDepthOfBinaryTree/MaxDepthOfBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-449">
@@ -722,13 +693,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_111/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="1250" column="22" lean-forward="false" selection-start-line="1250" selection-start-column="22" selection-end-line="1250" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_111/src.zip!/java/lang/Math.java" />
     <entry file="file://$PROJECT_DIR$/src/easyProblem/maxDepthOfBinaryTree/MaxDepthOfBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-449">
@@ -778,27 +743,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_111/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1038">
-          <caret line="1778" column="20" lean-forward="true" selection-start-line="1778" selection-start-column="20" selection-end-line="1778" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_111/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="144" column="12" lean-forward="false" selection-start-line="144" selection-start-column="12" selection-end-line="144" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_111/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="309" column="15" lean-forward="false" selection-start-line="309" selection-start-column="15" selection-end-line="309" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_111/src.zip!/java/lang/String.java" />
+    <entry file="jar://D:/Java/jdk1.8.0_111/src.zip!/java/util/List.java" />
+    <entry file="jar://D:/Java/jdk1.8.0_111/src.zip!/java/util/ArrayList.java" />
     <entry file="file://$PROJECT_DIR$/src/easyProblem/validAnagram/ValidAnagram.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -810,7 +757,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -818,7 +764,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="334">
           <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easyProblem/moveZeroes/MoveZeroes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="47" lean-forward="true" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easyProblem/nimGame/NimGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#89#90#0" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
