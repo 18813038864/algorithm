@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ad27287-957a-45e8-8fc2-e3a129eab04f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/easyProblem/powerOfThree/PowerOfThree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/easyProblem/guessNumberHigherOrLower/GuessNumberHigherOrLower.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -15,14 +15,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PowerOfThree.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/easyProblem/powerOfThree/PowerOfThree.java">
+      <file leaf-file-name="GuessNumberHigherOrLower.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/easyProblem/guessNumberHigherOrLower/GuessNumberHigherOrLower.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="8" column="63" lean-forward="false" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="63" />
+            <state relative-caret-position="386">
+              <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
               <folding>
-                <element signature="e#861#862#0" expanded="true" />
-                <element signature="e#895#896#0" expanded="true" />
+                <element signature="e#692#693#0" expanded="true" />
+                <element signature="e#746#747#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,6 +69,7 @@
         <option value="$PROJECT_DIR$/src/easyProblem/firstBadVersion/FirstBadVersion.java" />
         <option value="$PROJECT_DIR$/src/easyProblem/nimGame/NimGame.java" />
         <option value="$PROJECT_DIR$/src/easyProblem/powerOfThree/PowerOfThree.java" />
+        <option value="$PROJECT_DIR$/src/easyProblem/guessNumberHigherOrLower/GuessNumberHigherOrLower.java" />
       </list>
     </option>
   </component>
@@ -275,7 +276,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PowerOfThree">
+  <component name="RunManager" selected="Application.GuessNumberHigherOrLower">
     <configuration name="BestTimetoBuyandSellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -314,14 +315,14 @@
       <module name="algorithm" />
       <envs />
     </configuration>
-    <configuration name="ListDG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="GuessNumberHigherOrLower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="graph.*" />
+          <option name="PATTERN" value="easyProblem.guessNumberHigherOrLower.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="graph.ListDG" />
+      <option name="MAIN_CLASS_NAME" value="easyProblem.guessNumberHigherOrLower.GuessNumberHigherOrLower" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -453,19 +454,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ListDG" />
-      <item index="1" class="java.lang.String" itemvalue="Application.PasalTriangle" />
-      <item index="2" class="java.lang.String" itemvalue="Application.BestTimetoBuyandSellStock" />
-      <item index="3" class="java.lang.String" itemvalue="Application.BestTimetoBuyandSellStockTwo" />
-      <item index="4" class="java.lang.String" itemvalue="Application.PowerOfThree" />
+      <item index="0" class="java.lang.String" itemvalue="Application.PasalTriangle" />
+      <item index="1" class="java.lang.String" itemvalue="Application.BestTimetoBuyandSellStock" />
+      <item index="2" class="java.lang.String" itemvalue="Application.BestTimetoBuyandSellStockTwo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.PowerOfThree" />
+      <item index="4" class="java.lang.String" itemvalue="Application.GuessNumberHigherOrLower" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PowerOfThree" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BestTimetoBuyandSellStockTwo" />
-        <item index="2" class="java.lang.String" itemvalue="Application.BestTimetoBuyandSellStock" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PasalTriangle" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ListDG" />
+        <item index="0" class="java.lang.String" itemvalue="Application.GuessNumberHigherOrLower" />
+        <item index="1" class="java.lang.String" itemvalue="Application.PowerOfThree" />
+        <item index="2" class="java.lang.String" itemvalue="Application.BestTimetoBuyandSellStockTwo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.BestTimetoBuyandSellStock" />
+        <item index="4" class="java.lang.String" itemvalue="Application.PasalTriangle" />
       </list>
     </recent_temporary>
   </component>
@@ -512,11 +513,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541300441213</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="powerOfThree">
+      <created>1541818568152</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1541818568152</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66067000" />
+    <option name="totallyTimeSpent" value="67695000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="2" width="1378" height="733" extended-state="0" />
@@ -530,7 +538,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1875" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23784722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32869565" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -607,7 +615,8 @@
     <MESSAGE value="maxDepth" />
     <MESSAGE value="valid anagram" />
     <MESSAGE value="missing number" />
-    <option name="LAST_COMMIT_MESSAGE" value="missing number" />
+    <MESSAGE value="powerOfThree" />
+    <option name="LAST_COMMIT_MESSAGE" value="powerOfThree" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -636,19 +645,18 @@
           <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easyProblem/guessNumberHigherOrLower/GuessNumberHigherOrLower.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="29" />
+      <option name="time" value="30" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/graph/ListDG.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1063">
-          <caret line="224" column="9" lean-forward="true" selection-start-line="224" selection-start-column="9" selection-end-line="224" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/easyProblem/pasalTriangle/PasalTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -937,11 +945,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/easyProblem/powerOfThree/PowerOfThree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="8" column="63" lean-forward="false" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="63" />
+        <state relative-caret-position="324">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
           <folding>
             <element signature="e#861#862#0" expanded="true" />
             <element signature="e#895#896#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easyProblem/guessNumberHigherOrLower/GuessNumberHigherOrLower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+          <folding>
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
           </folding>
         </state>
       </provider>
