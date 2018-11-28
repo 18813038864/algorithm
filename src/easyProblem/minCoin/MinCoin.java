@@ -1,4 +1,4 @@
-package minCoin;
+package easyProblem.minCoin;
 
 public class MinCoin {
 	public static void main(String args[]){

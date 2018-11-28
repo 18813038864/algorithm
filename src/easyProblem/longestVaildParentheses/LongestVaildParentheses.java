@@ -1,4 +1,4 @@
-package longestVaildParentheses;
+package easyProblem.longestVaildParentheses;
 
 import java.util.Stack;
 

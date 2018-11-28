@@ -1,4 +1,4 @@
-package deleteDuplicates;
+package easyProblem.deleteDuplicates;
 
 public class DeleteDuplicates {
 	public static ListNode solution(ListNode head){

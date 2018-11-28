@@ -1,4 +1,4 @@
-package RemoveNthNode;
+package easyProblem.RemoveNthNode;
 
 class ListNode{
 	int val;

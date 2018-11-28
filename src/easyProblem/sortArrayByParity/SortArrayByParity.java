@@ -1,9 +1,9 @@
-package sortArrayByParity;
+package easyProblem.sortArrayByParity;
 
 public class SortArrayByParity {
 	
 	public static boolean isEven(int a){   
-	    if((a&1) != 1){   //ÊÇÅ¼Êý   
+	    if((a&1) != 1){
 	        return true;   
 	    }   
 	    return false;   
