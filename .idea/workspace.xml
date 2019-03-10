@@ -1,29 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ad27287-957a-45e8-8fc2-e3a129eab04f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="4ad27287-957a-45e8-8fc2-e3a129eab04f" name="Default" comment="fix">
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/RemoveNthNode/ListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/RemoveNthNode/RemoveNthNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/deleteDuplicates/DeleteDuplicates$ListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/deleteDuplicates/DeleteDuplicates.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/easyProblem/majorityElement/MajorityElement.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/easyProblem/numberOf1Bit/NumberOf1Bit.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/easyProblem/rotateArray/RotateArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/graph/ListDG$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/graph/ListDG$ENode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/graph/ListDG$VNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/graph/ListDG.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/longestVaildParentheses/LongestVaildParentheses.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/minCoin/MinCoin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/sort/bubbleSort/BubbleSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/sort/headSort/HeadSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/sortArrayByParity/SortArrayByParity.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -381,7 +365,7 @@
       <workItem from="1552216938131" duration="850000" />
       <workItem from="1552221675332" duration="3663000" />
       <workItem from="1552225473092" duration="770000" />
-      <workItem from="1552226285214" duration="152000" />
+      <workItem from="1552226285214" duration="373000" />
     </task>
     <task id="LOCAL-00001" summary="maxDepth">
       <created>1538827054486</created>
@@ -467,11 +451,25 @@
       <option name="project" value="LOCAL" />
       <updated>1552225301926</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="fix">
+      <created>1552226460135</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1552226460135</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fix">
+      <created>1552226581306</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1552226581306</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80187000" />
+    <option name="totallyTimeSpent" value="80408000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="2" width="1378" height="733" extended-state="0" />
@@ -579,7 +577,8 @@
     <MESSAGE value="add mediumProblem" />
     <MESSAGE value="add LongestSubstringWithoutRepeatChar" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/RemoveNthNode/RemoveNthNode.java&#10;#&#9;src/deleteDuplicates/DeleteDuplicates.java&#10;#&#9;src/easyProblem/RemoveNthNode/RemoveNthNode.java&#10;#&#9;src/easyProblem/deleteDuplicates/DeleteDuplicates.java&#10;#&#9;src/easyProblem/longestVaildParentheses/LongestVaildParentheses.java&#10;#&#9;src/easyProblem/minCoin/MinCoin.java&#10;#&#9;src/easyProblem/sortArrayByParity/SortArrayByParity.java&#10;#&#9;src/longestVaildParentheses/LongestVaildParentheses.java&#10;#&#9;src/mediumProblem/RemoveNthNode/RemoveNthNode.java&#10;#&#9;src/mediumProblem/deleteDuplicates/DeleteDuplicates.java&#10;#&#9;src/mediumProblem/longestVaildParentheses/LongestVaildParentheses.java&#10;#&#9;src/mediumProblem/minCoin/MinCoin.java&#10;#&#9;src/mediumProblem/sortArrayByParity/SortArrayByParity.java&#10;#&#9;src/minCoin/MinCoin.java&#10;#&#9;src/sortArrayByParity/SortArrayByParity.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/RemoveNthNode/RemoveNthNode.java&#10;#&#9;src/deleteDuplicates/DeleteDuplicates.java&#10;#&#9;src/easyProblem/RemoveNthNode/RemoveNthNode.java&#10;#&#9;src/easyProblem/deleteDuplicates/DeleteDuplicates.java&#10;#&#9;src/easyProblem/longestVaildParentheses/LongestVaildParentheses.java&#10;#&#9;src/easyProblem/minCoin/MinCoin.java&#10;#&#9;src/easyProblem/sortArrayByParity/SortArrayByParity.java&#10;#&#9;src/longestVaildParentheses/LongestVaildParentheses.java&#10;#&#9;src/mediumProblem/RemoveNthNode/RemoveNthNode.java&#10;#&#9;src/mediumProblem/deleteDuplicates/DeleteDuplicates.java&#10;#&#9;src/mediumProblem/longestVaildParentheses/LongestVaildParentheses.java&#10;#&#9;src/mediumProblem/minCoin/MinCoin.java&#10;#&#9;src/mediumProblem/sortArrayByParity/SortArrayByParity.java&#10;#&#9;src/minCoin/MinCoin.java&#10;#&#9;src/sortArrayByParity/SortArrayByParity.java" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -933,13 +932,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-989">
           <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="108">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
