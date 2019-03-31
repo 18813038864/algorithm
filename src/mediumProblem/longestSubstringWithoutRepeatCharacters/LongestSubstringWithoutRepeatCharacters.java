@@ -1,4 +1,4 @@
-package mediumProblem.longestSubstringWithoutRepeatCharacters;
+package src.mediumProblem.longestSubstringWithoutRepeatCharacters;
 
 public class LongestSubstringWithoutRepeatCharacters {
 
